@@ -1,0 +1,10 @@
+C:\Users\Sponge BoB\Downloads\FFAim\bin\x64\Release\net48\FFAim.exe.config
+C:\Users\Sponge BoB\Downloads\FFAim\bin\x64\Release\net48\FFAim.exe
+C:\Users\Sponge BoB\Downloads\FFAim\bin\x64\Release\net48\FFAim.pdb
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.csproj.AssemblyReference.cache
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.AssemblyInfoInputs.cache
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.AssemblyInfo.cs
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.csproj.CoreCompileInputs.cache
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.exe
+C:\Users\Sponge BoB\Downloads\FFAim\obj\x64\Release\net48\FFAim.pdb
